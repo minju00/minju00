@@ -11,8 +11,4 @@ minju00/minju00 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minju00&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=minju00&show_icons=true">
-
-<img src="http://mazandi.herokuapp.com/api?handle={bin3994}&theme=warm"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin3994)](https://solved.ac/bin3994/)
