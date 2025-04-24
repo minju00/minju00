@@ -11,6 +11,6 @@ minju00/minju00 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={minju00}&theme=warm"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin3994)](https://solved.ac/bin3994/)
