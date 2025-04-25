@@ -21,7 +21,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](#)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://tyvkwygk.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/1e08c365ee7f80e68289c56b2e8fcaf3?pvs=4)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bin3994@g.skku.edu)
 
 ---
@@ -35,11 +35,11 @@
 
 ## 💡 경력
 
-#### 인턴 | KISA 지능형 CCTV 모델 개선 (2024.10 ~ 2024.12)
+#### 인턴 | KISA 지능형 CCTV 모델 개선 
 - 지능형 CCTV 인증을 위한 모델 파인튜닝  
 - OpenMMLab 활용, 리눅스 기반 알고리즘 개선  
 
-#### 인턴 | On-device 환경 Pre-fill 최적화 (2024.07 ~ 2024.09)
+#### 인턴 | On-device 환경 Pre-fill 최적화 
 - on-device 환경에 cached attention 구현  
 - multiturn 환경에서 context overflow 방지를 위한 truncation 적용  
 
