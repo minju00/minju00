@@ -27,9 +27,6 @@ computer vision
 딥러닝
 Frontend
 
-### 좋아하는 것
-
-
 
 ---
 
