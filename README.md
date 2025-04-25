@@ -13,6 +13,12 @@
 
 많이 배우고 더욱 더 성장하는 사람이 되고 싶습니다. 
 
+## 활동
+
+#### 성균관대학교 소프트웨어학과
+
+#### 멋쟁이사자처럼 11기~12기 (프론트엔드 & 교육운영부 운영진)
+
 
 
 ### 핵심 강점
@@ -28,12 +34,14 @@ computer vision
 Frontend
 
 
-
 ---
 
 ## 🛠 Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -57,6 +65,7 @@ Frontend
 
 ---
 
+
 ## 💡 경력
 
 #### 인턴 | KISA 지능형 CCTV 모델 개선 
@@ -65,7 +74,9 @@ Frontend
 
 #### 인턴 | On-device 환경 Pre-fill 최적화 
 - on-device 환경에 cached attention 구현  
-- multiturn 환경에서 context overflow 방지를 위한 truncation 적용  
+- multiturn 환경에서 context overflow 방지를 위한 truncation 적용
+- user prompt 32 token에 대한 TTFT를 35% 향상시킴
+
 
 ---
 
