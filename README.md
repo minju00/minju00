@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=minju00&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=minju&fontSize=80" />
 </div>
 
 ## 안녕하세요 👋  
@@ -26,6 +26,7 @@ computer vision
 머신러닝
 딥러닝
 Frontend
+
 
 
 ---
