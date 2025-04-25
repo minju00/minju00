@@ -67,11 +67,11 @@ Frontend
 
 ## 💡 경력
 
-#### 인턴 | KISA 지능형 CCTV 모델 개선 
+#### 인턴 | KISA 지능형 CCTV 모델 개선 (스마트인사이드AI)
 - 지능형 CCTV 인증을 위한 모델 파인튜닝  
 - OpenMMLab 활용, 리눅스 기반 알고리즘 개선  
 
-#### 인턴 | On-device 환경 Pre-fill 최적화 
+#### 인턴 | On-device 환경 Pre-fill 최적화 (마음AI)
 - on-device 환경에 cached attention 구현  
 - multiturn 환경에서 context overflow 방지를 위한 truncation 적용
 - user prompt 32 token에 대한 TTFT를 35% 향상시킴
