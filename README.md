@@ -1,5 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=나는야 이민주&fontSize=90" />
+    <h1 align="center">minju00</h1>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=bbffad&height=120&text=&animation=&fontColor=30b300&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
