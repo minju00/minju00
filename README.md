@@ -33,7 +33,8 @@
 
 ## 🏅 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minju00&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minju00&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=minju00&)
 
 ---
