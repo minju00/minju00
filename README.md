@@ -27,7 +27,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/1e08c365ee7f80e68289c56b2e8fcaf3?pvs=4)
 [![bin3994@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bin3994@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minju00)
-[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@bin3994/posts)
+[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=bin3994)](https://velog.io/@bin3994/posts)
 
 ---
 
