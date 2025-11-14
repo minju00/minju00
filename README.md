@@ -24,11 +24,9 @@
 ## 🧑‍💻 Contact me
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://tyvkwygk.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/1e08c365ee7f80e68289c56b2e8fcaf3?pvs=4)
 [![bin3994@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bin3994@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minju00)
 
-[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=VELOG)](https://velog.io/@bin3994/posts)
 
 ---
 
@@ -53,16 +51,6 @@
 
 </details>
 
-<details>
-<summary>🚀 프로젝트</summary>
 
-<br>
-
-| 프로젝트명         | 프로젝트 설명                              | 담당 업무            |
-|--------------------|---------------------------------------------|----------------------|
-| AI Interview Tutor | AI 기반 면접 연습 시스템                    | Frontend, AI(STT)    |
-| 오늘은 해설왕      | 프로야구 경기 영상 분석 & 자막 생성/송출 시스템 | Frontend, AI 모델 기획 |
-
-</details>
 
 
